@@ -15,7 +15,7 @@ Most breakout strategies suffer severe drawdowns during ranging markets. This sy
 
 ## Performance Data (2019 – 2026)
 
-The system was developed using manual Walk-Forward Analysis (WFA) on MT5 to prevent curve-fitting, followed by a high-tick quality historical single-window backtest across 7 highly varied asset classes to ensure broad robustness.
+The system was developed using manual Walk-Forward Analysis (WFA) on MT5 to prevent curve-fitting across 7 highly varied asset classes to ensure broad robustness.
 
 ### Backtest Results Summary
 
