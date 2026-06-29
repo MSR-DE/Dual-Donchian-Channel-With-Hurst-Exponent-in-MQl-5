@@ -1,0 +1,13 @@
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS Generated
+Thumbs.db
+.DS_Store
+
+# Compiled Binaries (Optional, remove this line if you want to upload the .ex5 file)
+# *.ex5
+
+# Log files
+*.log
